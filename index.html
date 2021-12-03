@@ -14,7 +14,7 @@
         var sorted_direction = "ascending";
         var table_object = [];
         document.addEventListener("DOMContentLoaded",()=>{
-           fetch("https://nanick.org/linkedin.json").then((result) => {
+           fetch("./linkedin.json").then((result) => {
               result.json().then((linkedin_result) => {
                  counter = results_counter();
                  linkedin_json = linkedin_result;

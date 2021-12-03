@@ -154,11 +154,15 @@
            var a_logo = document.createElement("a");
            a_logo.setAttribute("title", company_name);
            if(Object.keys(element.hitInfo[Object.keys(element.hitInfo)[0]].jobPostingResolutionResult.companyDetails[Object.keys(element.hitInfo[Object.keys(element.hitInfo)[0]].jobPostingResolutionResult.companyDetails)[0]]).indexOf("companyResolutionResult") != -1){
-              var img_logo = document.createElement("img");
-              img_logo.height = 100;
-              img_logo.width = 100;
-              img_logo.src = element.hitInfo[Object.keys(element.hitInfo)[0]].jobPostingResolutionResult.companyDetails[Object.keys(element.hitInfo[Object.keys(element.hitInfo)[0]].jobPostingResolutionResult.companyDetails)[0]].companyResolutionResult.logo.image[Object.keys(element.hitInfo[Object.keys(element.hitInfo)[0]].jobPostingResolutionResult.companyDetails[Object.keys(element.hitInfo[Object.keys(element.hitInfo)[0]].jobPostingResolutionResult.companyDetails)[0]].companyResolutionResult.logo.image)[0]].rootUrl + element.hitInfo[Object.keys(element.hitInfo)[0]].jobPostingResolutionResult.companyDetails[Object.keys(element.hitInfo[Object.keys(element.hitInfo)[0]].jobPostingResolutionResult.companyDetails)[0]].companyResolutionResult.logo.image[Object.keys(element.hitInfo[Object.keys(element.hitInfo)[0]].jobPostingResolutionResult.companyDetails[Object.keys(element.hitInfo[Object.keys(element.hitInfo)[0]].jobPostingResolutionResult.companyDetails)[0]].companyResolutionResult.logo.image)[0]].artifacts.sort((x, y) => { (x.height - y.height); }).reverse()[0].fileIdentifyingUrlPathSegment;
-              a_logo.appendChild(img_logo);
+              if(typeof(element.hitInfo[Object.keys(element.hitInfo)[0]].jobPostingResolutionResult.companyDetails[Object.keys(element.hitInfo[Object.keys(element.hitInfo)[0]].jobPostingResolutionResult.companyDetails)[0]].companyResolutionResult.logo.image[Object.keys(element.hitInfo[Object.keys(element.hitInfo)[0]].jobPostingResolutionResult.companyDetails[Object.keys(element.hitInfo[Object.keys(element.hitInfo)[0]].jobPostingResolutionResult.companyDetails)[0]].companyResolutionResult.logo.image)[0]].rootUrl + element.hitInfo[Object.keys(element.hitInfo)[0]].jobPostingResolutionResult.companyDetails[Object.keys(element.hitInfo[Object.keys(element.hitInfo)[0]].jobPostingResolutionResult.companyDetails)[0]].companyResolutionResult) != "undefined"){
+                  var img_logo = document.createElement("img");
+                  img_logo.height = 100;
+                  img_logo.width = 100;
+                  img_logo.src = element.hitInfo[Object.keys(element.hitInfo)[0]].jobPostingResolutionResult.companyDetails[Object.keys(element.hitInfo[Object.keys(element.hitInfo)[0]].jobPostingResolutionResult.companyDetails)[0]].companyResolutionResult.logo.image[Object.keys(element.hitInfo[Object.keys(element.hitInfo)[0]].jobPostingResolutionResult.companyDetails[Object.keys(element.hitInfo[Object.keys(element.hitInfo)[0]].jobPostingResolutionResult.companyDetails)[0]].companyResolutionResult.logo.image)[0]].rootUrl + element.hitInfo[Object.keys(element.hitInfo)[0]].jobPostingResolutionResult.companyDetails[Object.keys(element.hitInfo[Object.keys(element.hitInfo)[0]].jobPostingResolutionResult.companyDetails)[0]].companyResolutionResult.logo.image[Object.keys(element.hitInfo[Object.keys(element.hitInfo)[0]].jobPostingResolutionResult.companyDetails[Object.keys(element.hitInfo[Object.keys(element.hitInfo)[0]].jobPostingResolutionResult.companyDetails)[0]].companyResolutionResult.logo.image)[0]].artifacts.sort((x, y) => { (x.height - y.height); }).reverse()[0].fileIdentifyingUrlPathSegment;
+                  a_logo.appendChild(img_logo);
+              } else {
+                  a_logo.innerText = company_name;
+              }
            } else {
               a_logo.innerText = company_name;
            }

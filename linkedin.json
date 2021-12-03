@@ -1,0 +1,2953 @@
+{
+    "metadata": {
+        "locationInfo": {
+            "location": "United States",
+            "dashGeoUrn": "urn:li:fsd_geo:103644278",
+            "geoUrn": "urn:li:fs_geo:103644278"
+        },
+        "keywords": "it support",
+        "taggedQueryKeyword": "it support",
+        "origin": "JOB_SEARCH_PAGE_OTHER_ENTRY",
+        "taggedQueryType": "SKILL",
+        "type": "JOBS",
+        "facets": [],
+        "guides": [
+            {
+                "displayText": "All",
+                "type": "VERTICAL",
+                "guideInfo": {
+                    "com.linkedin.voyager.search.VerticalGuide": {
+                        "vertical": "TOP"
+                    }
+                },
+                "urlParameter": "v->TOP",
+                "selected": false
+            },
+            {
+                "displayText": "People",
+                "type": "VERTICAL",
+                "guideInfo": {
+                    "com.linkedin.voyager.search.VerticalGuide": {
+                        "vertical": "PEOPLE"
+                    }
+                },
+                "urlParameter": "v->PEOPLE",
+                "selected": false
+            },
+            {
+                "displayText": "Jobs",
+                "type": "VERTICAL",
+                "guideInfo": {
+                    "com.linkedin.voyager.search.VerticalGuide": {
+                        "vertical": "JOBS"
+                    }
+                },
+                "urlParameter": "v->JOBS",
+                "selected": true
+            },
+            {
+                "displayText": "Content",
+                "type": "VERTICAL",
+                "guideInfo": {
+                    "com.linkedin.voyager.search.VerticalGuide": {
+                        "vertical": "CONTENT"
+                    }
+                },
+                "urlParameter": "v->CONTENT",
+                "selected": false
+            },
+            {
+                "displayText": "Companies",
+                "type": "VERTICAL",
+                "guideInfo": {
+                    "com.linkedin.voyager.search.VerticalGuide": {
+                        "vertical": "COMPANIES"
+                    }
+                },
+                "urlParameter": "v->COMPANIES",
+                "selected": false
+            },
+            {
+                "displayText": "Groups",
+                "type": "VERTICAL",
+                "guideInfo": {
+                    "com.linkedin.voyager.search.VerticalGuide": {
+                        "vertical": "GROUPS"
+                    }
+                },
+                "urlParameter": "v->GROUPS",
+                "selected": false
+            },
+            {
+                "displayText": "Schools",
+                "type": "VERTICAL",
+                "guideInfo": {
+                    "com.linkedin.voyager.search.VerticalGuide": {
+                        "vertical": "SCHOOLS"
+                    }
+                },
+                "urlParameter": "v->SCHOOLS",
+                "selected": false
+            },
+            {
+                "displayText": "Events",
+                "type": "VERTICAL",
+                "guideInfo": {
+                    "com.linkedin.voyager.search.VerticalGuide": {
+                        "vertical": "EVENTS"
+                    }
+                },
+                "urlParameter": "v->EVENTS",
+                "selected": false
+            }
+        ],
+        "taggedQueryUrn": "urn:li:skill:68",
+        "sortBy": "R",
+        "id": "l5g0NPqwJHR4Scxhru2mBA==",
+        "pastJobSearchMatch": false
+    },
+    "elements": [
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;Db5+qrPNR1iFQDdBDzH/zA==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "CwEAAAF9fbXoRZ_KTctdWKisWuiD30Jh8gWP-OsgcKuDeJfHyiTbR_36yiWVarJGw60EY3gSIkoCpbSWoc2TBgZ63h6Ehz0EWR_mFgMIdZ6aKp5-HnD_lSQVMfcmn6MkshpVKWW0WAKpB_ACiygjtn5a9_Vlw4WrHGwCkAQBGwidg4U9l9dAngYAXxgwcbjUTBmUq93bogdTZvHq_HaADWiJnoL5IDZRrwSpR_l0_n4g_zF3UAUzITusJvm3I-p57i1hDb_hZIVlUdDiogbrnv3jhj7ASqgj0zpUL-6QgAzhnvsaE1WUULAwiDxIMuQ9r045d1OAoQnCQxUHVJj6ZNiC85dlarelUazTRm6wu8DUcFfZSBYSueVY7Ti_KUfR",
+                    "sponsored": true,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2745448002",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2745448002",
+                        "companyDetails": {
+                            "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                                "companyResolutionResult": {
+                                    "$anti_abuse_annotations": [
+                                        {
+                                            "attributeId": 39,
+                                            "entityId": 7
+                                        }
+                                    ],
+                                    "entityUrn": "urn:li:fs_normalized_company:4827017",
+                                    "name": "Upwork",
+                                    "logo": {
+                                        "image": {
+                                            "com.linkedin.common.VectorImage": {
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "fileIdentifyingUrlPathSegment": "200_200/0/1620158724382?e=1646870400&v=beta&t=EDGrZYagev7VrWBZwjXddlQtvBH4ax1h2PHqv-V1u88",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 200
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "fileIdentifyingUrlPathSegment": "100_100/0/1620158724382?e=1646870400&v=beta&t=dFwhtweaF27WOhdWNzKHVr22dlTRwkKn4V1Jkpk3qCc",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 100
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "fileIdentifyingUrlPathSegment": "400_400/0/1620158724382?e=1646870400&v=beta&t=CKhW_wPMtf2MEVplgHk7XwZ-TFXl66a0JLoGXlY4iBI",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 400
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFAvA55uI9RQQ/company-logo_"
+                                            }
+                                        },
+                                        "type": "SQUARE_LOGO"
+                                    },
+                                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"
+                                },
+                                "company": "urn:li:fs_normalized_company:4827017",
+                                "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "",
+                        "title": "Lead Corp Tech IT Support Specialist",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2745448002",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.OffsiteApply": {
+                                "applyStartersPreferenceVoid": true,
+                                "companyApplyUrl": "https://www.upwork.com/careers/job-post/4450122003?gh_jid=4450122003&gh_src=2ecf0e153"
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2745448002",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2745448002)"
+                        },
+                        "new": false,
+                        "formattedLocation": "Waukegan, IL",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1641164961000,
+                        "listedAt": 1637064478000,
+                        "jobPostingId": 2745448002,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "sourceDomain": "www.upwork.com",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "q8BMxpggeCzvZQCAflncEw=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;tyXGr3UPTDiZ/SIxIgvi1A==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "CwEAAAF9fbXoRfuzxS7hkayGWkeEo6JzumDuJlvNB9hVo1ztnwJEZX4ssJj9cuwaqSjyLl0GQo8V-trZXjh9BN1AFXCl_KQYSNjiK4R8i_ryRhz3yYzOdLPzix0_jqUkpkI5P_RcZ6juNG_Kfnlru63x9zZoMwM2oF6NdGqRKcTOfk0LIcJjVmlYAnO45jMrA4n6e3gX0TrNaEgXMR40h69pKQ9peXQYadp3FO5xAmSnHMhElqaj07UnmlHPTSpZB25Byh76S2PyUFY0yzX4DveW4pL18fMhDt0D-vVe9vQKUaEGNgK73AoyllXQeqekm6hOk5tM0U2FMZQ2i1CCQLdDgssCYQynJOjBw0kjFSt3DDHrsMxe9T4Zr7QV7klq",
+                    "sponsored": true,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2809736352",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2809736352",
+                        "companyDetails": {
+                            "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                                "companyResolutionResult": {
+                                    "$anti_abuse_annotations": [
+                                        {
+                                            "attributeId": 39,
+                                            "entityId": 7
+                                        }
+                                    ],
+                                    "entityUrn": "urn:li:fs_normalized_company:6001",
+                                    "name": "Bottomline Technologies",
+                                    "logo": {
+                                        "image": {
+                                            "com.linkedin.common.VectorImage": {
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "fileIdentifyingUrlPathSegment": "200_200/0/1535555564287?e=1646870400&v=beta&t=D4IwuE1XMsy4zYwHg6zGJMcNbTN3WlpczFBiG4BMusU",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 200
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "fileIdentifyingUrlPathSegment": "100_100/0/1535555564287?e=1646870400&v=beta&t=bX_3msmpl2O5FqPzVQQBX3r13D5oNVD2HN-tz8N2Beg",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 100
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "fileIdentifyingUrlPathSegment": "400_400/0/1535555564287?e=1646870400&v=beta&t=2e5XGj5lJ0F5IL55y78qOxnauKzbHJH-8FW9Qkk71EM",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 400
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEnrNSWCkgKWg/company-logo_"
+                                            }
+                                        },
+                                        "type": "SQUARE_LOGO"
+                                    },
+                                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"
+                                },
+                                "company": "urn:li:fs_normalized_company:6001",
+                                "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "",
+                        "title": "Sr. IT Support Engineer",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2809736352",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.OffsiteApply": {
+                                "applyStartersPreferenceVoid": true,
+                                "companyApplyUrl": "https://boards.greenhouse.io/bottomlinetechnologies/jobs/5132482002?gh_src=8cc4ebf92&s=LinkedIn&source=LinkedIn"
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2809736352",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2809736352)"
+                        },
+                        "new": false,
+                        "formattedLocation": "Portsmouth, NH",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1640221506000,
+                        "listedAt": 1637629507000,
+                        "jobPostingId": 2809736352,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "sourceDomain": "boards.greenhouse.io",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "rjC2Qy8uwGkVpgh/QSscqg=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;kDidAdApTOqTexZoeVzXzg==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "CwEAAAF9fbXoRQbzimp0_-R0FpTJgNDOBJSSv1ApBfHLeR1dLRQVtPkUWC_KkFeBQsqj6RhWoWO4NMROou8-G4p-XZQ71iC1APHPu8BxcF8wxNHqv6aML52zGvrUEVn082hlWNbyK6uPwJrxa5gxDsmIO_qJu9r1YgsSNcDy2-qMg8UjyHwEIS2kHxb4F89uAMvc-547pAyV1_3mtyhNw2O845hqPqc7Yh7rpXIV0TJxv8E4M_MmaweUwgBawHVo_xxmITx1Ppm-J_TcpIdTYKDd0FRvVyi-bNZwhziKaNKNBdql6HNydMe6CgjP30Dc11X85IvdZ0r192jdCFJwbjB-WSLUbkg2SgLd0i88nV3bfOosAlWlvtbEkjvSEKzQ",
+                    "sponsored": true,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2661274401",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2661274401",
+                        "companyDetails": {
+                            "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                                "companyResolutionResult": {
+                                    "$anti_abuse_annotations": [
+                                        {
+                                            "attributeId": 39,
+                                            "entityId": 7
+                                        }
+                                    ],
+                                    "entityUrn": "urn:li:fs_normalized_company:648924",
+                                    "name": "AlphaSights",
+                                    "logo": {
+                                        "image": {
+                                            "com.linkedin.common.VectorImage": {
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "fileIdentifyingUrlPathSegment": "200_200/0/1629277009224?e=1646870400&v=beta&t=YMBKkPitSviI1d4Pjn0ARUnXdZk8XnLH6scnszkqTOE",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 200
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "fileIdentifyingUrlPathSegment": "100_100/0/1629277009224?e=1646870400&v=beta&t=lDkJPhay-GCKM01lOlmLPO9msBTJQTj7r2_TXnIwWFA",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 100
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "fileIdentifyingUrlPathSegment": "400_400/0/1629277009224?e=1646870400&v=beta&t=XjXU_Ltpyfz98JA_0Ijijghho8EJJigl93MyOjMouhE",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 400
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHNe23gADE7vQ/company-logo_"
+                                            }
+                                        },
+                                        "type": "SQUARE_LOGO"
+                                    },
+                                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"
+                                },
+                                "company": "urn:li:fs_normalized_company:648924",
+                                "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "",
+                        "title": "Senior IT Support Engineer",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2661274401",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.OffsiteApply": {
+                                "applyStartersPreferenceVoid": true,
+                                "companyApplyUrl": "https://app.greenhouse.io/embed/job_app?token=3347050&s=LinkedIn&source=LinkedIn"
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2661274401",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2661274401)"
+                        },
+                        "new": false,
+                        "formattedLocation": "New York, NY",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1643208806000,
+                        "listedAt": 1636974237000,
+                        "standardizedAddresses": {
+                            "addresses": [
+                                {
+                                    "formattedAddress": "350 Madison Ave, New York, NY 10017",
+                                    "latLong": {
+                                        "latitude": 40.75461,
+                                        "longitude": -73.97852
+                                    },
+                                    "postalAddress": {
+                                        "addressCountry": "US",
+                                        "addressLocality": "New York",
+                                        "addressRegion": "NY",
+                                        "streetAddress": "350 Madison Ave",
+                                        "postalCode": "10017"
+                                    }
+                                }
+                            ],
+                            "addressesInferred": true
+                        },
+                        "jobPostingId": 2661274401,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "sourceDomain": "app.greenhouse.io",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "/5K38qzaBPZtGqnTexPStQ=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;4HsGqs/bQianx6mznSwmig==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "CwEAAAF9fbXoRXmQY4v8HsPvSbUHkliooSnemhP0pcprly5zS47CkFIPECoQgU7d8PwS7FIIjeUqbsL-HRUkU3QYOZ1eJsFw7NcQmJPeShYgwzRaP-U-WvzMf6KPv5hNoaK7GMYz5jlhA2WiyCYX6nPQBOBwN87ya2zHne18EhUx_OwXkZgjwyX-nLJFxtsDboqmnhrSCcKNzKPQAPBopvbAEa0OKtLSZUUiuhKvWeoeOHs0DKuL9iy0BVMfoj3Rdnw07x5FeyAfLWJ1MiHUrzR1idppo7g__33ek8nkFGvnuNzr40uaCDZxh_dGQwkisN0zFxKhpvxILJfa9SA9jWcaYJ-lNJbZkI1CTUBlstTw3riRMH8848HLWl2AGSLg",
+                    "sponsored": true,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2780778586",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2780778586",
+                        "companyDetails": {
+                            "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                                "companyResolutionResult": {
+                                    "$anti_abuse_annotations": [
+                                        {
+                                            "attributeId": 39,
+                                            "entityId": 7
+                                        }
+                                    ],
+                                    "entityUrn": "urn:li:fs_normalized_company:50227",
+                                    "name": "Risk Strategies Company",
+                                    "logo": {
+                                        "image": {
+                                            "com.linkedin.common.VectorImage": {
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "fileIdentifyingUrlPathSegment": "200_200/0/1616157473776?e=1646870400&v=beta&t=vp0IWdb157Y2f4chXz6xLm5N6s4iZikD-glTTxVg8Vs",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 200
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "fileIdentifyingUrlPathSegment": "100_100/0/1616157473776?e=1646870400&v=beta&t=QTIIE4lsN6u9NezzZTFI_MnYFdF5hnXe3rfO8SPrXOk",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 100
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "fileIdentifyingUrlPathSegment": "400_400/0/1616157473776?e=1646870400&v=beta&t=VnnwykiLbj3NQ5QyUKh69xING7BpRbtNm1yUehM68G4",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 400
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQH6ASl6u1ERlw/company-logo_"
+                                            }
+                                        },
+                                        "type": "SQUARE_LOGO"
+                                    },
+                                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"
+                                },
+                                "company": "urn:li:fs_normalized_company:50227",
+                                "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "",
+                        "title": "IT Support Specialist",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2780778586",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.ComplexOnsiteApply": {
+                                "unifyApplyEnabled": true,
+                                "easyApplyUrl": "https://www.linkedin.com/job-apply/2780778586"
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2780778586",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2780778586)"
+                        },
+                        "new": false,
+                        "formattedLocation": "Hollywood, FL",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1641327291000,
+                        "listedAt": 1636744912000,
+                        "jobPostingId": 2780778586,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "VrceuSgzbB3apf5zhY8R/w=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;P7KtcHrHQ4CHM++Wk3ZDTw==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "JOB_SEARCH_ORGANIC",
+                    "sponsored": false,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2817484497",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2817484497",
+                        "companyDetails": {
+                            "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                                "companyResolutionResult": {
+                                    "name": "Tarbet Technology Group Inc",
+                                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo",
+                                    "$anti_abuse_annotations": [
+                                        {
+                                            "attributeId": 39,
+                                            "entityId": 7
+                                        }
+                                    ],
+                                    "entityUrn": "urn:li:fs_normalized_company:8581711"
+                                },
+                                "company": "urn:li:fs_normalized_company:8581711",
+                                "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "",
+                        "title": "Application Support Specialist (Healthcare)",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2817484497",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.ComplexOnsiteApply": {
+                                "unifyApplyEnabled": true,
+                                "easyApplyUrl": "https://www.linkedin.com/job-apply/2817484497"
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2817484497",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2817484497)"
+                        },
+                        "new": true,
+                        "formattedLocation": "North Carolina, United States",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1654009809000,
+                        "listedAt": 1638457809000,
+                        "jobPostingId": 2817484497,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "zymL/3W4gaM0PAHdrZkLIA=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;/1fVIB6pT9Wmer5DDrJ3uA==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "JOB_SEARCH_ORGANIC",
+                    "sponsored": false,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2816594750",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2816594750",
+                        "companyDetails": {
+                            "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                                "companyResolutionResult": {
+                                    "$anti_abuse_annotations": [
+                                        {
+                                            "attributeId": 39,
+                                            "entityId": 7
+                                        }
+                                    ],
+                                    "entityUrn": "urn:li:fs_normalized_company:562170",
+                                    "name": "IT Authorities",
+                                    "logo": {
+                                        "image": {
+                                            "com.linkedin.common.VectorImage": {
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "fileIdentifyingUrlPathSegment": "200_200/0/1519881647378?e=1646870400&v=beta&t=h8fEzHfcmu3l_r3yjKgXfgQSkzAGXQEA9ELjYA8qZGg",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 200
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "fileIdentifyingUrlPathSegment": "100_100/0/1519881647378?e=1646870400&v=beta&t=Fm_oTnuYqTFqw0o6EPlu_g-hUZBJ8VNp_K8kS6AgmVA",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 100
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "fileIdentifyingUrlPathSegment": "400_400/0/1519881647378?e=1646870400&v=beta&t=eAy439sZ9ppot5oiJFENMTbm0oChcEwNr8i1moQSVfg",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 400
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFNRG7nIVedpw/company-logo_"
+                                            }
+                                        },
+                                        "type": "SQUARE_LOGO"
+                                    },
+                                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"
+                                },
+                                "company": "urn:li:fs_normalized_company:562170",
+                                "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "",
+                        "title": "Systems Engineer (Professional Services)",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2816594750",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.SimpleOnsiteApply": {
+                                "type": "CONTACT_INFORMATION",
+                                "unifyApplyEnabled": true
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2816594750",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2816594750)"
+                        },
+                        "new": true,
+                        "formattedLocation": "Tampa, FL",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1654023378000,
+                        "listedAt": 1638471461000,
+                        "jobPostingId": 2816594750,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "x82pyX0hm76U9xQvzycqjw=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;ALcquFkdSD6IVXGTvZwePQ==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "CwEAAAF9fbXoRcLnOQNcSPU5MR-uDwohsscebzIZ1Jb1Mf7pENj6vIXcF1QYDSgBonldOS6UcnGiCfyluoWtF_gz4iS_Og-vHtayRVsdBgMZxAPnK_uXd0CCiAH2-MGaBKCSaQON3laIzPiNtRMsQ2zNHtV8t_OOJCahhzvWvEX155tE-bVc5tGdU5oB-C4pCfLOH0wBK9iKqmFUN6I-YliqRVKb7Mac7qKNm8KDe1tWUDcEgi8KdeyS9u2HNlOWZEinm2NfmxKhK_k-7NyW_LeQolFyTeMJNbVftxi5J-mP8PRnduSCnE0gI3EbGE0P79wgRMNNrhWjkSA9cu3j44H6Ebac16H0J_UdrobBpihYsrbUSO0tzygWHL5ztkfc",
+                    "sponsored": true,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2814416419",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2814416419",
+                        "companyDetails": {
+                            "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                                "companyResolutionResult": {
+                                    "$anti_abuse_annotations": [
+                                        {
+                                            "attributeId": 39,
+                                            "entityId": 7
+                                        }
+                                    ],
+                                    "entityUrn": "urn:li:fs_normalized_company:705598",
+                                    "name": "Addepar",
+                                    "logo": {
+                                        "image": {
+                                            "com.linkedin.common.VectorImage": {
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "fileIdentifyingUrlPathSegment": "200_200/0/1628612889180?e=1646870400&v=beta&t=M3rz2QhJqDdzs8zolxcrsTEJC02XsdxN5Wm0YM-Ei3U",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 200
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "fileIdentifyingUrlPathSegment": "100_100/0/1628612889180?e=1646870400&v=beta&t=KsJP0prCwESQfY-tGMxHtQQhnoYhoYz5bfbmPdhkWdU",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 100
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "fileIdentifyingUrlPathSegment": "400_400/0/1628612889180?e=1646870400&v=beta&t=_Sd1oVJgIXbAIiDTVylJ4cnVJtCf4gZv_kQZIR2ZkVQ",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 400
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFpr2qZM0QTiQ/company-logo_"
+                                            }
+                                        },
+                                        "type": "SQUARE_LOGO"
+                                    },
+                                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"
+                                },
+                                "company": "urn:li:fs_normalized_company:705598",
+                                "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "",
+                        "title": "IT Support Specialist",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2814416419",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.OffsiteApply": {
+                                "applyStartersPreferenceVoid": true,
+                                "companyApplyUrl": "https://boards.greenhouse.io/addepar1/jobs/5702416002?gh_src=31a4a9852&s=LinkedIn&source=LinkedIn"
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2814416419",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2814416419)"
+                        },
+                        "new": false,
+                        "formattedLocation": "Mountain View, CA",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1640907161000,
+                        "listedAt": 1638315161000,
+                        "jobPostingId": 2814416419,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "sourceDomain": "boards.greenhouse.io",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "PmhK+oFcDnS4LAxI142XDg=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;HXNMSWSsS+W3i/ZG6oDoHQ==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "CwEAAAF9fbXoRUK7D4iAk8-9QDfO0jjbLqUdi5tRahNJpM_Lxq5x0RtHUs8_w5TP-ZuyX72dXWVFrJzpS3AvnoBGqC49mSRHbB2MmJR2S87JkFv0-LMzK8VIzb7WfmxFRDII-0qhjImUg6q7eacItQ1DzKCopSu09BZ4MA-BndhFoLgBQheEKnfZDDbmnSsVEQj_a6ko15UGe0UYzZ4E0Js3Z7-mGUl3OKZ-VJe_8Qr2TzWs5s52z9V0hpbsCbCSBXOj5ci5eemeC09UllCBYKFAWqDHB21jTQKkPrfdWry11UrAjCvyukfGnTQMPNRf8NSOpTC0oZobU-5Km8Z_JQvYphkLqKkHjKRlTNDR2QjJu99C3S_fo2PE8MA-fX7r",
+                    "sponsored": true,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2724663267",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2724663267",
+                        "companyDetails": {
+                            "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                                "companyResolutionResult": {
+                                    "$anti_abuse_annotations": [
+                                        {
+                                            "attributeId": 39,
+                                            "entityId": 7
+                                        }
+                                    ],
+                                    "entityUrn": "urn:li:fs_normalized_company:1602",
+                                    "name": "Roche",
+                                    "logo": {
+                                        "image": {
+                                            "com.linkedin.common.VectorImage": {
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "fileIdentifyingUrlPathSegment": "200_200/0/1632733980939?e=1646870400&v=beta&t=EpRbURbCabffZmpvG5Jaj7d5Od9zx1sowFCWJhc_dzw",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 200
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "fileIdentifyingUrlPathSegment": "100_100/0/1632733980939?e=1646870400&v=beta&t=XoaNBSxs_4Ol5IIaPNpyuVUO-WfNoDlxKRSzcGi3Jpg",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 100
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "fileIdentifyingUrlPathSegment": "400_400/0/1632733980939?e=1646870400&v=beta&t=qSw7TyKWrQTMJIEuJFaHloFb14Sbs1ZVtHxxmPuQ5L4",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 400
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHGtMJ0yCoY1w/company-logo_"
+                                            }
+                                        },
+                                        "type": "SQUARE_LOGO"
+                                    },
+                                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"
+                                },
+                                "company": "urn:li:fs_normalized_company:1602",
+                                "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "",
+                        "title": "Lab IT Solution Support Engineer - Remote",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2724663267",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.OffsiteApply": {
+                                "applyStartersPreferenceVoid": true,
+                                "companyApplyUrl": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Indianapolis/Lab-IT-Solution-Support-Engineer---Remote_202108-124266-1?source=Linkedin"
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2724663267",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2724663267)"
+                        },
+                        "new": false,
+                        "formattedLocation": "Indianapolis, IN",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1642616406000,
+                        "listedAt": 1637836450000,
+                        "jobPostingId": 2724663267,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "sourceDomain": "roche.wd3.myworkdayjobs.com",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "6HLJF7AwLA3y1jQ1aM49eg=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;b2YiSvl5S2q/b3lfCtuh1Q==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "CwEAAAF9fbXoRfQEzps53TzvCiOvDlYqpCC7bKVF7fu0BBEYXa_qWXR9MJPFGttj4i8Ut93VhHpFEDBHt8yCX1Qnd0MTgNIPJiXzArLN3D3ZbR9sOY9BuOAcC4QkVQ9gFAX68NPkI8jX4vj5k9EDrt-HHZ1saPezdYKjato0wfxHYoxCAEdN2YxV3Wjp7R9eVqPKgm3AUQoco4D7QTHEPnlCgLpN6rYAJDJkN3M54mTytcJPWiPJAATQT356gmf8ApcFBQpoBtADYbsbHorgFwgzR_zXL6W2FZBZ0Chk_Fv21s8ZUrNfKTB81RA24TmCa4yLVCfgAp8xvo-qKtm7ZSLeW_GcgoaZVP2YSUqIIx2QQ6UBMkc4eu8KUZAb_9QI",
+                    "sponsored": true,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2701902549",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2701902549",
+                        "companyDetails": {
+                            "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                                "companyResolutionResult": {
+                                    "$anti_abuse_annotations": [
+                                        {
+                                            "attributeId": 39,
+                                            "entityId": 7
+                                        }
+                                    ],
+                                    "entityUrn": "urn:li:fs_normalized_company:6395111",
+                                    "name": "Lumentum",
+                                    "logo": {
+                                        "image": {
+                                            "com.linkedin.common.VectorImage": {
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "fileIdentifyingUrlPathSegment": "200_200/0/1587745734087?e=1646870400&v=beta&t=lQOEikqo_VDxtX5zugRNhLdLDYsfHrDWBzPo8WKs8Ho",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 200
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "fileIdentifyingUrlPathSegment": "100_100/0/1587745734087?e=1646870400&v=beta&t=Kmh8qZUWJdhPCJ1gi2RotuYeQYHc9olSEuEkyqQ8N18",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 100
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "fileIdentifyingUrlPathSegment": "400_400/0/1587745734087?e=1646870400&v=beta&t=ZNlO67L-J0oz5A1O9T_KT8IqLQTA375WM_xibw-69iA",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 400
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGa6IaeP28SVw/company-logo_"
+                                            }
+                                        },
+                                        "type": "SQUARE_LOGO"
+                                    },
+                                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"
+                                },
+                                "company": "urn:li:fs_normalized_company:6395111",
+                                "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "",
+                        "title": "IT Executive Support Engineer",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2701902549",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.OffsiteApply": {
+                                "applyStartersPreferenceVoid": true,
+                                "companyApplyUrl": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/USA---CA---San-Jose-Ridder/IT-Executive-Support-Engineer_2021941-1?source=Linkedin"
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2701902549",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2701902549)"
+                        },
+                        "new": false,
+                        "formattedLocation": "San Jose, CA",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1643604981000,
+                        "listedAt": 1638008578000,
+                        "standardizedAddresses": {
+                            "addresses": [
+                                {
+                                    "formattedAddress": "1001 Ridder Park Dr, San Jose, CA 95131",
+                                    "latLong": {
+                                        "latitude": 37.383057,
+                                        "longitude": -121.90197
+                                    },
+                                    "postalAddress": {
+                                        "addressCountry": "US",
+                                        "addressLocality": "San Jose",
+                                        "addressRegion": "CA",
+                                        "streetAddress": "1001 Ridder Park Dr",
+                                        "postalCode": "95131"
+                                    }
+                                }
+                            ],
+                            "addressesInferred": true
+                        },
+                        "jobPostingId": 2701902549,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "sourceDomain": "lumentum.wd5.myworkdayjobs.com",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "J7/H8lY+KhEujbXUKxNLuQ=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;UsZqNKPBSVKU/X2U0gMQ9A==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "CwEAAAF9fbXoRW5_IJBxbbyAM8aoOrJ6AHgivB3lC1W-QNDwo6XbIT6CSKLaAbkaDvcTzZCfTgkD36KX1QzddFb-uKpxnV-WgPhbi2jtA5kS7SuWSrxE06Ok4Fz9YPIFbEY8tuY1u8vbfYcwrOtRwXUG1bk1o6T8j7uXzSWPTNx1G2ZNeAOb-wRLp9Gliwb1GcZqD_GW6jWFOzTqkgJtTDYIyrbVBqboWGbfgPPBGfqgLIgS0iLa9It9_zS88_Wi7VpVV8CVZ5x4sxUJoATL_aimPalbAlmB0vxzKKItus3BlLVfmyNlYqzI3XKs0T-3Q64GWNU4KzPDU-J_91gtAf2OmSr340gjxOXyZTo66MBmSDWaEn6GtYe_g7nkZMQa",
+                    "sponsored": true,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2812236194",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2812236194",
+                        "companyDetails": {
+                            "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                                "companyResolutionResult": {
+                                    "$anti_abuse_annotations": [
+                                        {
+                                            "attributeId": 39,
+                                            "entityId": 7
+                                        }
+                                    ],
+                                    "entityUrn": "urn:li:fs_normalized_company:2672915",
+                                    "name": "DataRobot",
+                                    "logo": {
+                                        "image": {
+                                            "com.linkedin.common.VectorImage": {
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "fileIdentifyingUrlPathSegment": "200_200/0/1625145774627?e=1646870400&v=beta&t=EcjoikijFDyJIHzLGSeZjFJ4ax7zZzGx-IFv0Uuz-PM",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 200
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "fileIdentifyingUrlPathSegment": "100_100/0/1625145774627?e=1646870400&v=beta&t=u35nj6F45WbfAPwMA5vKuP3P2FATOCpUydGhvLYNY-I",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 100
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "fileIdentifyingUrlPathSegment": "400_400/0/1625145774627?e=1646870400&v=beta&t=o8OuKm-BVw5qH-lEoBwXERBxWzv8A0UxvCK2TY-aMhE",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 400
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHQ69S_Z2qvVg/company-logo_"
+                                            }
+                                        },
+                                        "type": "SQUARE_LOGO"
+                                    },
+                                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"
+                                },
+                                "company": "urn:li:fs_normalized_company:2672915",
+                                "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "",
+                        "title": "IT Desktop Support",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2812236194",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.OffsiteApply": {
+                                "applyStartersPreferenceVoid": true,
+                                "companyApplyUrl": "https://datarobot.wd1.myworkdayjobs.com/DataRobot_External_Careers/job/San-Francisco-California-US/IT-Desktop-Engineer_GH-936?gh_src=1dc742401&source=Linkedin"
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2812236194",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2812236194)"
+                        },
+                        "new": false,
+                        "formattedLocation": "San Francisco, CA",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1640383588000,
+                        "listedAt": 1637791589000,
+                        "jobPostingId": 2812236194,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "sourceDomain": "datarobot.wd1.myworkdayjobs.com",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "Xh4Lc+jJiWGgfFVrYRDJbw=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;oiWFLQRnTbCWAfRhnbaL7A==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "CwEAAAF9fbXoRX0oSV2gDMIDzvCPiJKv1CPeqjVYc1pKMKPo5fkMK--eM6GEfwcTfTWbaAXZsANq5oSI73V2EJg-IuX_feOgmqst5XdbG_K_UYh4s-wOZ7tWF7py6SVtFySOcfzc_yxUmv_y6qkcbW-jikqk9excnSEdF_AhpkOLDDqwldMjoC4ko6_4LHYsZUzifbRZyaTGQKf_hXODn1uJtyhhx2zSV9y_NVIfNywENnfmfON-27umNW1LLsFN6MDPlm_L90bYO4lr0bu1CHeOGciI7jgKiMxQt10khel2YzYq6qq-lpBpFZTnoRhpVUjX6joK8_rEyCKWdXysQU9DNsOLSb7Ook7PXIRf9Sm37Y_bkbR8lx-fMmkkhRC6rOE",
+                    "sponsored": true,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2806922144",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2806922144",
+                        "companyDetails": {
+                            "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                                "companyResolutionResult": {
+                                    "$anti_abuse_annotations": [
+                                        {
+                                            "attributeId": 39,
+                                            "entityId": 7
+                                        }
+                                    ],
+                                    "entityUrn": "urn:li:fs_normalized_company:3877505",
+                                    "name": "Quantum Metric",
+                                    "logo": {
+                                        "image": {
+                                            "com.linkedin.common.VectorImage": {
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "fileIdentifyingUrlPathSegment": "200_200/0/1634569914030?e=1646870400&v=beta&t=bxKlfwT8qoepBff7wpOrPRGV1jCJXPb95AprE9OguHY",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 200
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "fileIdentifyingUrlPathSegment": "100_100/0/1634569914030?e=1646870400&v=beta&t=LWTHvKcd9J-JCx5hmTjSIM5w8EPk4UNErnYy2NTT_ok",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 100
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "fileIdentifyingUrlPathSegment": "400_400/0/1634569914030?e=1646870400&v=beta&t=Ze_mvVdBDHRbAr8BpGvKbkU73R0cZiBTG_hsVIr1B3s",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 400
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFrCjrOlWlHYQ/company-logo_"
+                                            }
+                                        },
+                                        "type": "SQUARE_LOGO"
+                                    },
+                                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"
+                                },
+                                "company": "urn:li:fs_normalized_company:3877505",
+                                "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "",
+                        "title": "IT Support Engineer",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2806922144",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "Medical, Vision, Dental, 401(k)",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.OffsiteApply": {
+                                "applyStartersPreferenceVoid": true,
+                                "companyApplyUrl": "https://jobs.lever.co/quantummetric/ce983e27-7a6e-4694-bf4e-8471c17ee336?lever-source=LinkedInJobs"
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2806922144",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2806922144)"
+                        },
+                        "new": false,
+                        "formattedLocation": "United States",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1640378912000,
+                        "listedAt": 1637786913000,
+                        "jobPostingId": 2806922144,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "v07Ti1J6m+W8lGQyI4CXAA=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;gdBP7ehySlymXfscKoAF3A==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "JOB_SEARCH_ORGANIC",
+                    "sponsored": false,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2816573825",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2816573825",
+                        "companyDetails": {
+                            "com.linkedin.voyager.jobs.JobPostingCompanyName": {
+                                "companyName": "MedAI, LLC"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "",
+                        "title": "Support Engineer",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2816573825",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.ComplexOnsiteApply": {
+                                "unifyApplyEnabled": true,
+                                "easyApplyUrl": "https://www.linkedin.com/job-apply/2816573825"
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2816573825",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2816573825)"
+                        },
+                        "new": true,
+                        "formattedLocation": "Washington DC-Baltimore Area",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1641056273000,
+                        "listedAt": 1638464273000,
+                        "jobPostingId": 2816573825,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "UxbRpI6TnS208VAceYPT7A=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;xmGw2smsQjStNzX/jnJ8RQ==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "JOB_SEARCH_ORGANIC",
+                    "sponsored": false,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2806603090",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2806603090",
+                        "companyDetails": {
+                            "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                                "companyResolutionResult": {
+                                    "$anti_abuse_annotations": [
+                                        {
+                                            "attributeId": 39,
+                                            "entityId": 7
+                                        }
+                                    ],
+                                    "entityUrn": "urn:li:fs_normalized_company:11056",
+                                    "name": "Insight Global",
+                                    "logo": {
+                                        "image": {
+                                            "com.linkedin.common.VectorImage": {
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "fileIdentifyingUrlPathSegment": "200_200/0/1625151854957?e=1646870400&v=beta&t=R6UZZwRYmqDHVdwV_QeqjJ710fqHXL--HVtkVIQ9YYc",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 200
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "fileIdentifyingUrlPathSegment": "100_100/0/1625151854957?e=1646870400&v=beta&t=xkxijxeoVjc3hD5u3x_6OO4EKm4Reg5h_asxzt_Ff-Q",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 100
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "fileIdentifyingUrlPathSegment": "400_400/0/1625151854957?e=1646870400&v=beta&t=sROja2LTi8D0rO4yju28Wtz097YDWT3Xbf5n0TAhqKs",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 400
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEPIZwBWHN9DA/company-logo_"
+                                            }
+                                        },
+                                        "type": "SQUARE_LOGO"
+                                    },
+                                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"
+                                },
+                                "company": "urn:li:fs_normalized_company:11056",
+                                "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "",
+                        "title": "ELN Technical Support ",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2806603090",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.ComplexOnsiteApply": {
+                                "unifyApplyEnabled": true,
+                                "easyApplyUrl": "https://www.linkedin.com/job-apply/2806603090"
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2806603090",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2806603090)"
+                        },
+                        "new": false,
+                        "formattedLocation": "United States",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1640963511000,
+                        "listedAt": 1638371511000,
+                        "jobPostingId": 2806603090,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "8QW8oKDTvfTM5fr00paZtw=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;t32gDS8bTfqIFuxUEqUNZA==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "CwEAAAF9fbXoRe5KggCQGnOgCNrohKjZ-2Rt2p5FI123CzzlY4xaPFqksXWB-aRYC4WM4vUbAsSJi9wd3euKCwx4hUIRPtorPMrfRi1OlTFSenqI6BQwpoHA5EOwPbT0hXCTTVpxU3BHQQAGHK0sqzZbo-6jwV0J1PUGbB25XUeGWkVtmbLVrLkYmXSCXCy0VQeB6DBJMMH9KeK_QmFKLAdMgEIjlBxg_Yi3uesvLMZ3Vod9memxZHruQw-MnWWEKCR1kTS0p6AiDbX7fq5MiDe4F4LDUBdcYT12B4gwLDVoqx8CenQHsbOCgPfqyxNHUOtKE1e-KkBZOBe34OKVVVNbmRwcShuvu5YS2wJy8KhVbi96h5phRJcA90SJHrqhg9o",
+                    "sponsored": true,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2767870249",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2767870249",
+                        "companyDetails": {
+                            "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                                "companyResolutionResult": {
+                                    "$anti_abuse_annotations": [
+                                        {
+                                            "attributeId": 39,
+                                            "entityId": 7
+                                        }
+                                    ],
+                                    "entityUrn": "urn:li:fs_normalized_company:2514119",
+                                    "name": "NationBuilder",
+                                    "logo": {
+                                        "image": {
+                                            "com.linkedin.common.VectorImage": {
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "fileIdentifyingUrlPathSegment": "200_200/0/1519900184161?e=1646870400&v=beta&t=7MGqxJm3cQiH2No2C5HNq9i90MO20gp_UrXdZah0_KQ",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 200
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "fileIdentifyingUrlPathSegment": "100_100/0/1519900184161?e=1646870400&v=beta&t=hQO3VmytEPQh2dElFXCFKaHpahW4e1VAtFyGbX-OqJE",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 100
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "fileIdentifyingUrlPathSegment": "400_400/0/1519900184161?e=1646870400&v=beta&t=lMwhEL925w0l3ajmoXOhS07vLeQjgD4tGwvA425I-28",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 400
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQE4QZNBzBubKg/company-logo_"
+                                            }
+                                        },
+                                        "type": "SQUARE_LOGO"
+                                    },
+                                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"
+                                },
+                                "company": "urn:li:fs_normalized_company:2514119",
+                                "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "",
+                        "title": "IT Support Engineer",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2767870249",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.OffsiteApply": {
+                                "applyStartersPreferenceVoid": true,
+                                "companyApplyUrl": "https://boards.greenhouse.io/nationbuilder/jobs/4583028003?s=LinkedIn&source=LinkedIn"
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2767870249",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2767870249)"
+                        },
+                        "new": false,
+                        "formattedLocation": "United States",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1640445359000,
+                        "listedAt": 1637548592000,
+                        "jobPostingId": 2767870249,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "VpLIRI+HDP6W7j7+7gx0vw=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;8ogWyQMdS6GCPgqt2VC1WQ==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "CwEAAAF9fbXoRUTmOZBkj0lfZtTIT2YiwcGwF9BWjK0FFohTxF9qHF1bu_hbDQLOLjiiQoXoOiOxeRN024rynfrYfht7R1wNvhyKLwLhRU2muvV3A6JZBpbUkTgdOUQxjXjzXSPbEeeDsdKpMmenYk5rEJZAuvgR4GWVNh9Hi-twoRj-PxAn-oKKruoriGaYRv4eSTHFCSPZjyBzcuEJM-I4MzvCNCJTsa1_5StO6kmWaPP6iucDJImJyjmDdfupaY3OdongdkvGSXAwxgP9x1B403Z4A-W5Vw8YRFYH3Ru6ireH2Qu6A_iabRTrhVn0o8yoJZACNgmM0YLU2OdzY0kRAMLvaHums6cuiMJ7iHNnpNoLSZV5DZBaH6QWiYk4",
+                    "sponsored": true,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2758743241",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2758743241",
+                        "companyDetails": {
+                            "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                                "companyResolutionResult": {
+                                    "$anti_abuse_annotations": [
+                                        {
+                                            "attributeId": 39,
+                                            "entityId": 7
+                                        }
+                                    ],
+                                    "entityUrn": "urn:li:fs_normalized_company:3231576",
+                                    "name": "Lob",
+                                    "logo": {
+                                        "image": {
+                                            "com.linkedin.common.VectorImage": {
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "fileIdentifyingUrlPathSegment": "200_200/0/1625604278540?e=1646870400&v=beta&t=jsw_pAn2uMJ9yZAUmmLyCWBU3IZGrx-PnLNDoTEPXXE",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 200
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "fileIdentifyingUrlPathSegment": "100_100/0/1625604278540?e=1646870400&v=beta&t=2lEk0z-gXMjR-z3_DUVJ-a4L6Rm7_t54mpWS55tfZS4",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 100
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "fileIdentifyingUrlPathSegment": "400_400/0/1625604278540?e=1646870400&v=beta&t=e2EinP6vrNA1ckPAXWsOaS7HslZf6UScj55ns-SG8QE",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 400
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEZvkw_RcuZcw/company-logo_"
+                                            }
+                                        },
+                                        "type": "SQUARE_LOGO"
+                                    },
+                                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"
+                                },
+                                "company": "urn:li:fs_normalized_company:3231576",
+                                "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "",
+                        "title": "Executive IT Support Engineer",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2758743241",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "Medical, 401(k), +1 benefit",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.OffsiteApply": {
+                                "applyStartersPreferenceVoid": true,
+                                "companyApplyUrl": "http://www.lob.com/careers/apply?gh_jid=3576667&gh_src=f3b188501us"
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2758743241",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2758743241)"
+                        },
+                        "new": false,
+                        "formattedLocation": "San Francisco, CA",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1640010195000,
+                        "listedAt": 1636718182000,
+                        "jobPostingId": 2758743241,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "sourceDomain": "www.lob.com",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "jA69aQY5BjgnnymD/QjIZw=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;7yBL7MP2SBeHqqfHRPkbKQ==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "CwEAAAF9fbXoRaBUFWQcB9c8MTZjxm99SAXA5tkwFOm-EX9o6eKIQK_7llc1TL9YbwKoHwe2y3dMYEObLP21kOYRPhY4aRJ7Z3AAn6eqqN7_KTw-WbL5c3qz-KM8kGAaZyjsxBq6jtPYULP4A-kT5UVvZV3OjfnQ09jqZyNYws2O6vGZQVyRV_grShps4-tNSYBvZ7moFCWxEOU4Lrkxy37-zGK1G6o6FYZ6kH6yxSwpCMo-M4tjmKWSdsXDuXaeJwy5z_XlinvGgLC-yL0zioK2e_Kgr8a3pLZcPBBEVB8xq2LCaEVC1WI2lLRQU-OSvvPLMkq3GB6i5K4ZC6c-u1qxwQPIwF4Uh87wrdhRAF9u36RBzI9-V4_3K1ulE_kF",
+                    "sponsored": true,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2778811053",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2778811053",
+                        "companyDetails": {
+                            "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                                "companyResolutionResult": {
+                                    "$anti_abuse_annotations": [
+                                        {
+                                            "attributeId": 39,
+                                            "entityId": 7
+                                        }
+                                    ],
+                                    "entityUrn": "urn:li:fs_normalized_company:11257500",
+                                    "name": "Hitachi Vantara",
+                                    "logo": {
+                                        "image": {
+                                            "com.linkedin.common.VectorImage": {
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "fileIdentifyingUrlPathSegment": "200_200/0/1546978337151?e=1646870400&v=beta&t=weONU1wOJ-Z8--tZIO_J6QjaS1capSybK6sKT9geIss",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 200
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "fileIdentifyingUrlPathSegment": "100_100/0/1546978337151?e=1646870400&v=beta&t=6xJcySYXMirA6OKtHmmSrtgkfkD2Z-bOwS9zTaadU7Q",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 100
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "fileIdentifyingUrlPathSegment": "400_400/0/1546978337151?e=1646870400&v=beta&t=ZBbRd6bUgbfq9jNxZfe0pc8nMlV6YIsvgzI3c8CMABM",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 400
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQG8QkfwHBMs4g/company-logo_"
+                                            }
+                                        },
+                                        "type": "SQUARE_LOGO"
+                                    },
+                                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"
+                                },
+                                "company": "urn:li:fs_normalized_company:11257500",
+                                "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "",
+                        "title": "IT Executive Support Engineer",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2778811053",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "Medical benefit",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.OffsiteApply": {
+                                "applyStartersPreferenceVoid": true,
+                                "companyApplyUrl": "https://www.hitachivantara.com/en-us/company/careers/job-details.html?gh_jid=5652470002&gh_src=9a8bd6422#jobid=5652470002"
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2778811053",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2778811053)"
+                        },
+                        "new": false,
+                        "formattedLocation": "Santa Clara, CA",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1640711977000,
+                        "listedAt": 1637402752000,
+                        "jobPostingId": 2778811053,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "sourceDomain": "www.hitachivantara.com",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "aKP2ueZFpgq8tQ9Y+Bxrkw=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;/Bs+CyBQRz+ndOY6GEgJIg==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "CwEAAAF9fbXoRQQViIboy1spd3e9-SXr0uMv6pThXkjYgPndKtPLU_qnuM5S12aItlaFmIyOx8NBrFLWzqzkLXuorCHQp1707Z0p9UyMrBdKgm9K56otL-KlWSa-Dx6ENRqrhUyIDPjHjOaxYLJXH0AGTJNKi2BxaL6Rrw-W8t2CY1cdspV_LLRkMCGQI2GOl93LU4_QuGDi0ihV56XX_8Z-lbTIO6DbhxqGrXm7L0xZHLHNJXvRE5ctYXjhT3vjPiTsVufXtOI88wd7O6D48rL8ifrK5ezjNg8bKMfCV6USH2j3j_RTZagAI7phVPFQ_Dks4gS5ItUE5Rx9MpC-gRuP1PoP5Un1c5QpM2psl74B-6_KDPz6RIGUUQxU63Zk51M",
+                    "sponsored": true,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2812782105",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2812782105",
+                        "companyDetails": {
+                            "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                                "companyResolutionResult": {
+                                    "$anti_abuse_annotations": [
+                                        {
+                                            "attributeId": 39,
+                                            "entityId": 7
+                                        }
+                                    ],
+                                    "entityUrn": "urn:li:fs_normalized_company:1391537",
+                                    "name": "Abarca Health",
+                                    "logo": {
+                                        "image": {
+                                            "com.linkedin.common.VectorImage": {
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "fileIdentifyingUrlPathSegment": "200_200/0/1519886421279?e=1646870400&v=beta&t=Q1qWOgkFacSrT5ntnaP1ZrqzLHK_4pnJxDeEQcHljTM",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 200
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "fileIdentifyingUrlPathSegment": "100_100/0/1519886421279?e=1646870400&v=beta&t=AfK7XKvSD1aPak-gQac3Cqfx69_h-_E4Ktql__eMSuI",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 100
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "fileIdentifyingUrlPathSegment": "400_400/0/1519886421279?e=1646870400&v=beta&t=nJ2KTs5n8H_IeDu84CZG4qGBNnno4M77krfzO1mw8qI",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 400
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQG_CcLUa_pI5w/company-logo_"
+                                            }
+                                        },
+                                        "type": "SQUARE_LOGO"
+                                    },
+                                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"
+                                },
+                                "company": "urn:li:fs_normalized_company:1391537",
+                                "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "",
+                        "title": "IT Solutions Support Engineer",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2812782105",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.OffsiteApply": {
+                                "applyStartersPreferenceVoid": true,
+                                "companyApplyUrl": "https://grnh.se/b52708543us?s=LinkedIn&source=LinkedIn"
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2812782105",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2812782105)"
+                        },
+                        "new": false,
+                        "formattedLocation": "United States",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1640789233000,
+                        "listedAt": 1638197234000,
+                        "jobPostingId": 2812782105,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "a20D9+uI6NmVK//qBw4iWg=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;/dfqS+r1SNSPPjbW+tG2Wg==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "CwEAAAF9fbXoRfXE9jdfD_HU13pjgMSpDMMrYST4yrMJM-SDz_N2kKjs673qUNwqR1FR4kZGCSMsgMAijjSzssTU8_J8IChWGhiEv90G6mI29hsctQ1KZIA6NQw0_vy7VD02j12RUtvBZ4HyYi4xaCACyhwQy1M-dQmmsQYrUnDuP0_bWJf6gdRI0rsZpGvkJj0MKYFqCTYGWTrQQ-UlTKSRU3yySSgRSH2O5gTmgMsO4yRbE-oQ-jXgcQGgUqgQ8amPnT6HZ022Nb5M2yi-CHn9S2TEYePjUGwzjYuELqm4fqyBQSqdm_0NF8eLxEhUOHWT-ODDypF6kQk8Mc6aa_YYXuYN8wp2qQFGoxgcezqe7SuhOrChyJXDx82etHOW",
+                    "sponsored": true,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2817176900",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2817176900",
+                        "companyDetails": {
+                            "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                                "companyResolutionResult": {
+                                    "$anti_abuse_annotations": [
+                                        {
+                                            "attributeId": 39,
+                                            "entityId": 7
+                                        }
+                                    ],
+                                    "entityUrn": "urn:li:fs_normalized_company:210353",
+                                    "name": "Brain Gain Recruiting",
+                                    "logo": {
+                                        "image": {
+                                            "com.linkedin.common.VectorImage": {
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "fileIdentifyingUrlPathSegment": "200_200/0/1519912117640?e=1646870400&v=beta&t=FzXv4IYTRZQPs6MDOSgOqWMJF1NantpnjznHKg-zbaY",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 200
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "fileIdentifyingUrlPathSegment": "100_100/0/1519912117640?e=1646870400&v=beta&t=YBVb4dtXuwT3o-T_p1TvmrNEXTs7JG7oBR1qKwOtVtk",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 100
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "fileIdentifyingUrlPathSegment": "400_400/0/1519912117640?e=1646870400&v=beta&t=Pp9KaeYeKbIDrTFWeJeGCkO2UYwUnW7Sk6RgEJQgaTA",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 400
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C510BAQHIX1d8339stw/company-logo_"
+                                            }
+                                        },
+                                        "type": "SQUARE_LOGO"
+                                    },
+                                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"
+                                },
+                                "company": "urn:li:fs_normalized_company:210353",
+                                "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "$60K/yr - $65K/yr",
+                        "title": "IT Support Representative",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2817176900",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.ComplexOnsiteApply": {
+                                "unifyApplyEnabled": true,
+                                "easyApplyUrl": "https://www.linkedin.com/job-apply/2817176900"
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2817176900",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2817176900)"
+                        },
+                        "new": true,
+                        "formattedLocation": "United States",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1641080404000,
+                        "listedAt": 1638488404000,
+                        "jobPostingId": 2817176900,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "a+8TsS1eyKrhwk3ei9UhnQ=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;/06r2/V9RmWDHLkXfIGzvA==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "JOB_SEARCH_ORGANIC",
+                    "sponsored": false,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2594149122",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2594149122",
+                        "companyDetails": {
+                            "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                                "companyResolutionResult": {
+                                    "$anti_abuse_annotations": [
+                                        {
+                                            "attributeId": 39,
+                                            "entityId": 7
+                                        }
+                                    ],
+                                    "entityUrn": "urn:li:fs_normalized_company:28160731",
+                                    "name": "Touchpoint K12",
+                                    "logo": {
+                                        "image": {
+                                            "com.linkedin.common.VectorImage": {
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "fileIdentifyingUrlPathSegment": "200_200/0/1612451987308?e=1646870400&v=beta&t=ZMTEjSij209welQXKAAzkh9F8A0w_F8VFcVcOK1dcTA",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 200
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "fileIdentifyingUrlPathSegment": "100_100/0/1612451987308?e=1646870400&v=beta&t=cQmv3DdyKkj8B6y7ftHvo_o8IEnicPWhtI4WAyO-N78",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 100
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "fileIdentifyingUrlPathSegment": "400_400/0/1612451987308?e=1646870400&v=beta&t=MPajtcuhnA3Zs_77UdWJlnDzSNogzJmovonIsyFTZfw",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 400
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEKpeqveZbwQQ/company-logo_"
+                                            }
+                                        },
+                                        "type": "SQUARE_LOGO"
+                                    },
+                                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"
+                                },
+                                "company": "urn:li:fs_normalized_company:28160731",
+                                "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "$45K/yr - $65K/yr",
+                        "title": "Technical Hardware Support for K12 Admins (Remote)",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2594149122",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "Medical, Vision, Dental",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.ComplexOnsiteApply": {
+                                "unifyApplyEnabled": true,
+                                "easyApplyUrl": "https://www.linkedin.com/job-apply/2594149122"
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2594149122",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2594149122)"
+                        },
+                        "new": true,
+                        "formattedLocation": "Phoenixville, PA",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1641060003000,
+                        "listedAt": 1638468003000,
+                        "jobPostingId": 2594149122,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "g8wJnhyeENdyvyMiUyxHxA=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;P9VwRTx6Tk2vjdsfI3EPdA==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "JOB_SEARCH_ORGANIC",
+                    "sponsored": false,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2825058517",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2825058517",
+                        "companyDetails": {
+                            "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                                "companyResolutionResult": {
+                                    "$anti_abuse_annotations": [
+                                        {
+                                            "attributeId": 39,
+                                            "entityId": 7
+                                        }
+                                    ],
+                                    "entityUrn": "urn:li:fs_normalized_company:35515100",
+                                    "name": "HiringOpps",
+                                    "logo": {
+                                        "image": {
+                                            "com.linkedin.common.VectorImage": {
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "fileIdentifyingUrlPathSegment": "200_200/0/1547488753870?e=1646870400&v=beta&t=CCM4q6KwOv0Np7-vdnuK5XEtAxeNmjZyaEqcNYnDqjs",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 200
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "fileIdentifyingUrlPathSegment": "100_100/0/1547488753870?e=1646870400&v=beta&t=BNOgOIpPJBIaA0AfnH5HI9E9XImNNBa_cbOuMwsquiE",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 100
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "fileIdentifyingUrlPathSegment": "400_400/0/1547488753870?e=1646870400&v=beta&t=0aYhSyMqFMGX1DjzaEBcKnTQpEb6PH0bvODoQ1OdI7Y",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 400
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEBuQLnPOoTnw/company-logo_"
+                                            }
+                                        },
+                                        "type": "SQUARE_LOGO"
+                                    },
+                                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"
+                                },
+                                "company": "urn:li:fs_normalized_company:35515100",
+                                "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "",
+                        "title": "Support Specialist",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2825058517",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "Medical, Dental, 401(k)",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.ComplexOnsiteApply": {
+                                "unifyApplyEnabled": true,
+                                "easyApplyUrl": "https://www.linkedin.com/job-apply/2825058517"
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2825058517",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2825058517)"
+                        },
+                        "new": true,
+                        "formattedLocation": "United States",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1654035163000,
+                        "listedAt": 1638483163000,
+                        "jobPostingId": 2825058517,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "+9fpVdyOrDBVX2M87FEtWw=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;gkeVMIj7QYKxXMqkE5NQxA==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "CwEAAAF9fbXoRfJbQD-Jnw3r4HLVRbt8yaexJk-94ihNUOKroaD1fXZgcv4Pz1h9mJsEn09zSqldhmTE5UPQ6eV677R7KQnm2zIpbN_TfF60WeKnpD-Mcew7Bf2Ope8Lsz7gfQr45By-RfDmfMxbx5g4mU19alNj0RHiqm3Rxzn_GMAs5sYAFMXJCUZMAKP2e9K-CZ1mLEN8mrGwbA6a7MQDv1PJDfF8iAnyKNr4-r1tBaPJeDg6eXolCqpEUQoXiur39JQksElmEcrqlsQDtkttbEvvl7eSfDhqNH071As5i0i3Tsy7B6lu2c8synJbVblbXiAA6ZyDVntQUDHnB_zSBiX0tydIQ-E4n89_6K4EpuV8vSX4APL61CoZiAMW",
+                    "sponsored": true,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2806061424",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2806061424",
+                        "companyDetails": {
+                            "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                                "companyResolutionResult": {
+                                    "$anti_abuse_annotations": [
+                                        {
+                                            "attributeId": 39,
+                                            "entityId": 7
+                                        }
+                                    ],
+                                    "entityUrn": "urn:li:fs_normalized_company:822535",
+                                    "name": "Udemy",
+                                    "logo": {
+                                        "image": {
+                                            "com.linkedin.common.VectorImage": {
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1646870400&v=beta&t=1jaUxuiY4lC8S87fsuKxXOTBmXJPEqwBK5GhIuVAlWs",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 200
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1646870400&v=beta&t=gUwoQVLBwdpNWn0fq8KJSQbePTBeoKCibfoEowHBG_c",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 100
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1646870400&v=beta&t=CjZxMBrsUjKEye2K_75e7wjhA8sxLjnjW1JRXTutgNU",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 400
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                                            }
+                                        },
+                                        "type": "SQUARE_LOGO"
+                                    },
+                                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"
+                                },
+                                "company": "urn:li:fs_normalized_company:822535",
+                                "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "",
+                        "title": "IT Support Engineer",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2806061424",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "1 benefit",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.OffsiteApply": {
+                                "applyStartersPreferenceVoid": true,
+                                "companyApplyUrl": "https://jobs.lever.co/udemy/c3827569-caa6-4001-b7dd-93a70e7005bb?lever-source=LinkedInJobs"
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2806061424",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2806061424)"
+                        },
+                        "new": false,
+                        "formattedLocation": "San Francisco, CA",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1639968802000,
+                        "listedAt": 1637376804000,
+                        "jobPostingId": 2806061424,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "sourceDomain": "jobs.lever.co",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "9rErtXtOfLwhCAnu9iQlQA=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;FszeK1k+TtqL6Klbo2EXcw==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "CwEAAAF9fbXoRVGG_tlNr5BkqaSjYFvTZbnNjFDV6tO-3Ju1w4RQ7dQPU8ZALAs16_sIaWRzfu-CqV_PCvkyXa49W3hyFDDynGZRnFEGNtrCzvu4AEpQ1kFt7s3yHOx1VvY6DO3TKoBkjVojE7teODhSFIAaQJeTkSomfOY-ttSG-jGRQU454YV0nftcCB2rZhkud959nVm79DLI_bi4CQdvhhHRx5uS2dFdYNV-mJtaZRfYOI2S_rDwPNLxy-zPKFQKOijL40hNNdnar_REg3WA4op3BiRsLyHH0Y_pORAqReXXM3_gAg3Tvx3cF4eCo_faqPCBUjn5--LmnfoYY0jaQ_nQ96FQtd6UwQkaO_ACC1G4QrNhvwJMgK62HWWX",
+                    "sponsored": true,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2800194855",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2800194855",
+                        "companyDetails": {
+                            "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                                "companyResolutionResult": {
+                                    "$anti_abuse_annotations": [
+                                        {
+                                            "attributeId": 39,
+                                            "entityId": 7
+                                        }
+                                    ],
+                                    "entityUrn": "urn:li:fs_normalized_company:1333212",
+                                    "name": "Dr. Martens plc",
+                                    "logo": {
+                                        "image": {
+                                            "com.linkedin.common.VectorImage": {
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "fileIdentifyingUrlPathSegment": "200_200/0/1568218419978?e=1646870400&v=beta&t=ioGMyyc_EOwW1rIG1jkWc0CIYsvsSXFa1l1zZldoB7M",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 200
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "fileIdentifyingUrlPathSegment": "100_100/0/1568218419978?e=1646870400&v=beta&t=V5SdxE2DaUKGyQSPfb-3LoaWvNHf3YIwkaY3Zmp5lQ0",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 100
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "fileIdentifyingUrlPathSegment": "400_400/0/1568218419978?e=1646870400&v=beta&t=ZekuHuejbzRQiSZGR7vREXXLJqhrO1gTfPCttgFpzWo",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 400
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQG1ZP5MMTL4ow/company-logo_"
+                                            }
+                                        },
+                                        "type": "SQUARE_LOGO"
+                                    },
+                                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"
+                                },
+                                "company": "urn:li:fs_normalized_company:1333212",
+                                "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "",
+                        "title": "Retail IT Support Engineer, Midwest",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2800194855",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.ComplexOnsiteApply": {
+                                "unifyApplyEnabled": true,
+                                "easyApplyUrl": "https://www.linkedin.com/job-apply/2800194855"
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2800194855",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2800194855)"
+                        },
+                        "new": false,
+                        "formattedLocation": "Chicago, IL",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1639940922000,
+                        "listedAt": 1637348923000,
+                        "jobPostingId": 2800194855,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "EEfu5t3WyT8EGTYuw/9URQ=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;Itle49+XQHiqhTHGyUe0WA==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "CwEAAAF9fbXoRTOU-Jk424BsmEMwV-Qq1Zow6YgH2YKTRivnvjZql_7psOLLb2SPEbknN_T47F1M1cpzE7mppN5Yx2lOn1dRw5z6fNCMaBmyTvJDyDHGob4-Pi-KdvtZuzIRqY1ZS-ItWIYMYqcXQYmf3025p8blQE8L5H5O0aWM3UIVk45WJadSZYPp17lb385GglHIctHx9hN-K0kERMbDwaMsdhyfUsnuLD9Xuh0WesqJAYjqdV0nW2LBG5VH8aqWMgjAXhpq3fpaqd8OUotDDi5oHbO8d26ykVLRj3XFSzym4hqr92UjvW70oWH5Svv_Ha7u9XIAyH8zpM0eLAZ6LQo5XbMR6qYpOJLFsBCEkh90dBcZ970mCK0DkA7c",
+                    "sponsored": true,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2799269351",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2799269351",
+                        "companyDetails": {
+                            "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                                "companyResolutionResult": {
+                                    "$anti_abuse_annotations": [
+                                        {
+                                            "attributeId": 39,
+                                            "entityId": 7
+                                        }
+                                    ],
+                                    "entityUrn": "urn:li:fs_normalized_company:2041",
+                                    "name": "Aon",
+                                    "logo": {
+                                        "image": {
+                                            "com.linkedin.common.VectorImage": {
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "fileIdentifyingUrlPathSegment": "200_200/0/1632417916300?e=1646870400&v=beta&t=CyGUK9k4MPDKZt8zrdnf8s_XhSMnYryVx4FIk05oym4",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 200
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "fileIdentifyingUrlPathSegment": "100_100/0/1632417916300?e=1646870400&v=beta&t=pAWofB-_UdiU9Jj6RjR4Wqbn3ODy_1nLq-LgPF_qC7s",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 100
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "fileIdentifyingUrlPathSegment": "400_400/0/1632417916300?e=1646870400&v=beta&t=59fBoPysAnRp1gfTcmOSarcCESzEC8zYJSAUcubR6KA",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 400
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE3m3K7hD4Hzg/company-logo_"
+                                            }
+                                        },
+                                        "type": "SQUARE_LOGO"
+                                    },
+                                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"
+                                },
+                                "company": "urn:li:fs_normalized_company:2041",
+                                "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "",
+                        "title": "IT Support Lead I",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2799269351",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.OffsiteApply": {
+                                "applyStartersPreferenceVoid": true,
+                                "companyApplyUrl": "https://ars2.equest.com/?response_id=9b830ec43cf8d59269be083c149206d7"
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2799269351",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2799269351)"
+                        },
+                        "new": false,
+                        "formattedLocation": "Dallas, TX",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1639548940000,
+                        "listedAt": 1636956941000,
+                        "jobPostingId": 2799269351,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "sourceDomain": "ars2.equest.com",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "xQQO0m8HKYyzP5Z+6wwMoQ=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;epDZ63uiSmWaP3lgrPQBjw==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "JOB_SEARCH_ORGANIC",
+                    "sponsored": false,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2810490599",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2810490599",
+                        "companyDetails": {
+                            "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                                "companyResolutionResult": {
+                                    "$anti_abuse_annotations": [
+                                        {
+                                            "attributeId": 39,
+                                            "entityId": 7
+                                        }
+                                    ],
+                                    "entityUrn": "urn:li:fs_normalized_company:2152",
+                                    "name": "TEKsystems",
+                                    "logo": {
+                                        "image": {
+                                            "com.linkedin.common.VectorImage": {
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "fileIdentifyingUrlPathSegment": "200_200/0/1625161122996?e=1646870400&v=beta&t=i9Xmp-iQv2OejhTv8RKX2X7aaWkVp7YtArn7aFQrzuY",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 200
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "fileIdentifyingUrlPathSegment": "100_100/0/1625161122996?e=1646870400&v=beta&t=RDIdC7dES40A_kUolGsBd2-pNtVzJfsh8ZIM80iJyx4",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 100
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "fileIdentifyingUrlPathSegment": "400_400/0/1625161122996?e=1646870400&v=beta&t=9bw0u3j2xmCHDzil4WjFFLtTixCEih8ZqNtR4hu8bag",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 400
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHvWB-HshcNtA/company-logo_"
+                                            }
+                                        },
+                                        "type": "SQUARE_LOGO"
+                                    },
+                                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"
+                                },
+                                "company": "urn:li:fs_normalized_company:2152",
+                                "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "$37K/yr - $59K/yr (LinkedIn est.)",
+                        "title": "IT Support Analyst (Remote)",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2810490599",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.OffsiteApply": {
+                                "applyStartersPreferenceVoid": false,
+                                "companyApplyUrl": "https://jsv3.recruitics.com/redirect?rx_cid=3435&rx_jobId=JP-002477102&rx_url=https%3A%2F%2Fars2.equest.com%2F%3Ficid%3Dlinkedin_recruitics%26response_id%3Dcd6dcb8a6f99bd14a2b19ed47dd5aa92%26rx_campaign%3DLinkedin1%26rx_group%3D123600%26rx_job%3DJP-002477102%26rx_medium%3Dpost%26rx_r%3Dnone%26rx_source%3DLinkedin%26rx_ts%3D20211123T120423Z"
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2810490599",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2810490599)"
+                        },
+                        "new": false,
+                        "formattedLocation": "Madison, WI",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1640267108000,
+                        "listedAt": 1637539200000,
+                        "jobPostingId": 2810490599,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "sourceDomain": "jsv3.recruitics.com",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "YSpWwO5egi0eVvOGIgKYSg=="
+        },
+        {
+            "targetPageInstance": "urn:li:page:d_flagship3_job_details;jDtULrPkT0u3gWd7NXLQzQ==",
+            "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary",
+            "hitInfo": {
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "encryptedBiddingParameters": "CwEAAAF9fbXoRSsOacUiI-qGmVcGBUfmqkh5uhTm4MXU8D4CfOHBRcSX4BtXVJSoppaChEz6Rk3OWP69t-an4blwHQrIGs-FYfcPa__P554ne3SX8hyS9-nyfqwovFiVwIdc5mpDFV9nDXQzThlDgs_QS5Lckca2cLUYcXgXHoGpGkuNH3kglbMSOKJcGur2sKXUBRr5KT088xZtjmzN4KYUr5PWSuFYWRZxfs2RSs9wiCpqH8ML-qQjCUzNvKHxc_w2RVkvFcm7XEUPH_vkYYVuhcAfRfTA2ufBczG2cChK1KNsNZ9CSTnOzaEazqb1YcyB6PS-Vdxrzu8vKi3YkebInzbg1ohXw413qlC0QvilU2Qf79fzRNjuKsaLbOrb",
+                    "sponsored": true,
+                    "jobPosting": "urn:li:fs_normalized_jobPosting:2802994987",
+                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                    "jobPostingResolutionResult": {
+                        "dashEntityUrn": "urn:li:fsd_jobPosting:2802994987",
+                        "companyDetails": {
+                            "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                                "companyResolutionResult": {
+                                    "$anti_abuse_annotations": [
+                                        {
+                                            "attributeId": 39,
+                                            "entityId": 7
+                                        }
+                                    ],
+                                    "entityUrn": "urn:li:fs_normalized_company:427685",
+                                    "name": "GyanSys Inc.",
+                                    "logo": {
+                                        "image": {
+                                            "com.linkedin.common.VectorImage": {
+                                                "artifacts": [
+                                                    {
+                                                        "width": 200,
+                                                        "fileIdentifyingUrlPathSegment": "200_200/0/1626697037090?e=1646870400&v=beta&t=QVnjmGGxRlpd28w1y2u8QUjzBhHwNw2AOOgGO6zRWuw",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 200
+                                                    },
+                                                    {
+                                                        "width": 100,
+                                                        "fileIdentifyingUrlPathSegment": "100_100/0/1626697037090?e=1646870400&v=beta&t=YVLm2aqxnvqWTjRqXUAItnH4VIBx1G7-NR2sQecJr-k",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 100
+                                                    },
+                                                    {
+                                                        "width": 400,
+                                                        "fileIdentifyingUrlPathSegment": "400_400/0/1626697037090?e=1646870400&v=beta&t=YXUuVQUE8IZoXuJGfhCBMyxpw86rglfNarZ36qHIGEY",
+                                                        "expiresAt": 1646870400000,
+                                                        "height": 400
+                                                    }
+                                                ],
+                                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFFQZvNPrczUQ/company-logo_"
+                                            }
+                                        },
+                                        "type": "SQUARE_LOGO"
+                                    },
+                                    "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"
+                                },
+                                "company": "urn:li:fs_normalized_company:427685",
+                                "$recipeType": "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                            }
+                        },
+                        "jobState": "LISTED",
+                        "formattedSalaryDescription": "",
+                        "title": "IT Desktop Support - Citrix Admin",
+                        "entityUrn": "urn:li:fs_normalized_jobPosting:2802994987",
+                        "workRemoteAllowed": true,
+                        "briefBenefitsDescription": "",
+                        "applyMethod": {
+                            "com.linkedin.voyager.jobs.ComplexOnsiteApply": {
+                                "unifyApplyEnabled": true,
+                                "easyApplyUrl": "https://www.linkedin.com/job-apply/2802994987"
+                            }
+                        },
+                        "savingInfo": {
+                            "saved": false,
+                            "entityUrn": "urn:li:fs_jobSavingInfo:2802994987",
+                            "dashSaveStateUrn": "urn:li:fsd_saveState:(SAVE,urn:li:fsd_jobPosting:2802994987)"
+                        },
+                        "new": false,
+                        "formattedLocation": "United States",
+                        "workplaceTypes": [
+                            "urn:li:fs_workplaceType:2"
+                        ],
+                        "expireAt": 1639775421000,
+                        "listedAt": 1637183421000,
+                        "jobPostingId": 2802994987,
+                        "$recipeType": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                        "workplaceTypesResolutionResults": {
+                            "urn:li:fs_workplaceType:2": {
+                                "localizedName": "Remote",
+                                "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType",
+                                "entityUrn": "urn:li:fs_workplaceType:2"
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingId": "g817GvQDP8b9C8r4ud0v1g=="
+        }
+    ],
+    "paging": {
+        "total": 62134,
+        "count": 25,
+        "start": 0,
+        "links": []
+    },
+    "$metadata": {
+        "microSchema": {
+            "version": "2",
+            "types": {
+                "com.linkedin.voyager.deco.jobs.web.shared.WebAllJobPostingRelevanceReasons": {
+                    "fields": {
+                        "reasons": {
+                            "type": {
+                                "array": "com.linkedin.voyager.deco.jobs.web.shared.relevancereasons.WebListedJobPostingRelevanceReason"
+                            }
+                        }
+                    },
+                    "baseType": "com.linkedin.voyager.jobs.relevancereasons.JobPostingRelevanceReasons"
+                },
+                "com.linkedin.voyager.deco.jobs.web.shared.relevancereasons.WebListedJobPostingRelevanceReason": {
+                    "fields": {
+                        "jobPosting": {
+                            "type": "string"
+                        },
+                        "details": {
+                            "type": {
+                                "union": [
+                                    "com.linkedin.voyager.deco.jobs.web.shared.relevancereasons.WebListedInNetworkDetails",
+                                    "com.linkedin.voyager.jobs.shared.JobSeekerQualifiedRelevanceReasonDetails",
+                                    "com.linkedin.voyager.deco.jobs.web.shared.relevancereasons.WebListedSchoolRecruitDetails",
+                                    "com.linkedin.voyager.jobs.shared.HiddenGemRelevanceReasonDetails",
+                                    "com.linkedin.voyager.deco.jobs.web.shared.relevancereasons.WebListedCompanyRecruitDetails"
+                                ]
+                            }
+                        },
+                        "jobPostingRelevanceReasonDetail": {
+                            "type": "com.linkedin.voyager.deco.jobs.web.shared.WebJobPostingRelevanceReasonDetail"
+                        },
+                        "entityUrn": {
+                            "type": "string"
+                        }
+                    },
+                    "baseType": "com.linkedin.voyager.jobs.relevancereasons.JobPostingRelevanceReason"
+                },
+                "com.linkedin.voyager.deco.organization.shared.WebCompactCompany": {
+                    "fields": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "logo": {
+                            "type": "com.linkedin.voyager.organization.CompanyLogoImage"
+                        },
+                        "universalName": {
+                            "type": "string"
+                        },
+                        "entityUrn": {
+                            "type": "string"
+                        },
+                        "url": {
+                            "type": "string"
+                        }
+                    },
+                    "baseType": "com.linkedin.voyager.organization.Company"
+                },
+                "com.linkedin.voyager.deco.identity.normalizedprofile.shared.WebListedProfile": {
+                    "fields": {
+                        "profilePicture": {
+                            "type": {
+                                "union": [
+                                    "string",
+                                    "com.linkedin.voyager.common.MediaProxyImage",
+                                    "com.linkedin.voyager.common.MediaProcessorImage",
+                                    "com.linkedin.common.VectorImage"
+                                ]
+                            }
+                        },
+                        "lastName": {
+                            "type": "string"
+                        },
+                        "firstName": {
+                            "type": "string"
+                        },
+                        "distance": {
+                            "type": "string"
+                        },
+                        "entityUrn": {
+                            "type": "string"
+                        },
+                        "location": {
+                            "type": "com.linkedin.voyager.identity.normalizedprofile.Location"
+                        },
+                        "publicIdentifier": {
+                            "type": "string"
+                        },
+                        "headline": {
+                            "type": "string"
+                        }
+                    },
+                    "baseType": "com.linkedin.voyager.identity.normalizedprofile.Profile"
+                },
+                "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType": {
+                    "fields": {
+                        "entityUrn": {
+                            "type": "string"
+                        },
+                        "localizedName": {
+                            "type": "string"
+                        }
+                    },
+                    "baseType": "com.linkedin.voyager.jobs.shared.WorkplaceType"
+                },
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo": {
+                    "fields": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "logo": {
+                            "type": "com.linkedin.voyager.organization.CompanyLogoImage"
+                        },
+                        "entityUrn": {
+                            "type": "string"
+                        }
+                    },
+                    "baseType": "com.linkedin.voyager.organization.Company"
+                },
+                "com.linkedin.voyager.deco.jobs.web.shared.relevancereasons.WebListedInNetworkDetails": {
+                    "fields": {
+                        "topConnections": {
+                            "type": {
+                                "array": "string"
+                            }
+                        },
+                        "totalNumberOfConnections": {
+                            "type": "int"
+                        },
+                        "topConnectionsResolutionResults": {
+                            "type": {
+                                "map": "com.linkedin.voyager.deco.identity.normalizedprofile.shared.WebListedProfile"
+                            },
+                            "resolvedFrom": "topConnections"
+                        }
+                    },
+                    "baseType": "com.linkedin.voyager.jobs.shared.InNetworkRelevanceReasonDetails"
+                },
+                "com.linkedin.voyager.deco.organization.shared.WebCompactSchool": {
+                    "fields": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "logo": {
+                            "type": {
+                                "union": [
+                                    "string",
+                                    "com.linkedin.voyager.common.MediaProxyImage",
+                                    "com.linkedin.voyager.common.MediaProcessorImage",
+                                    "com.linkedin.common.VectorImage"
+                                ]
+                            }
+                        },
+                        "entityUrn": {
+                            "type": "string"
+                        }
+                    },
+                    "baseType": "com.linkedin.voyager.organization.shared.School"
+                },
+                "com.linkedin.voyager.deco.jobs.web.shared.WebFullSuperTitle": {
+                    "fields": {
+                        "entityUrn": {
+                            "type": "string"
+                        },
+                        "localizedName": {
+                            "type": "string"
+                        }
+                    },
+                    "baseType": "com.linkedin.voyager.jobs.shared.SuperTitle"
+                },
+                "com.linkedin.voyager.deco.jobs.web.shared.relevancereasons.WebListedSchoolRecruitDetails": {
+                    "fields": {
+                        "totalNumberOfAlumni": {
+                            "type": "int"
+                        },
+                        "mostRecentlyGraduatedAlumni": {
+                            "type": {
+                                "array": "string"
+                            }
+                        },
+                        "mostRecentlyGraduatedAlumniResolutionResults": {
+                            "type": {
+                                "map": "com.linkedin.voyager.deco.identity.normalizedprofile.shared.WebListedProfile"
+                            },
+                            "resolvedFrom": "mostRecentlyGraduatedAlumni"
+                        },
+                        "mostRecentSchool": {
+                            "type": "string"
+                        },
+                        "mostRecentSchoolResolutionResult": {
+                            "type": "com.linkedin.voyager.deco.organization.shared.WebCompactSchool",
+                            "resolvedFrom": "mostRecentSchool"
+                        }
+                    },
+                    "baseType": "com.linkedin.voyager.jobs.shared.SchoolRecruitRelevanceReasonDetails"
+                },
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary": {
+                    "fields": {
+                        "encryptedBiddingParameters": {
+                            "type": "string"
+                        },
+                        "sponsored": {
+                            "type": "boolean"
+                        },
+                        "jobPosting": {
+                            "type": "string"
+                        },
+                        "jobPostingResolutionResult": {
+                            "type": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary",
+                            "resolvedFrom": "jobPosting"
+                        },
+                        "topNRelevanceReasonsInjectionResult": {
+                            "type": "com.linkedin.voyager.deco.jobs.web.shared.WebAllJobPostingRelevanceReasons",
+                            "isInjection": true
+                        }
+                    },
+                    "baseType": "com.linkedin.voyager.search.SearchJobJserp"
+                },
+                "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName": {
+                    "fields": {
+                        "companyResolutionResult": {
+                            "type": "com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo",
+                            "resolvedFrom": "company"
+                        },
+                        "company": {
+                            "type": "string"
+                        }
+                    },
+                    "baseType": "com.linkedin.voyager.jobs.JobPostingCompany"
+                },
+                "com.linkedin.voyager.deco.common.WebFullSkill": {
+                    "fields": {
+                        "standardizedName": {
+                            "type": "string"
+                        },
+                        "entityUrn": {
+                            "type": "string"
+                        }
+                    },
+                    "baseType": "com.linkedin.voyager.jobs.shared.Skill"
+                },
+                "com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingWithSalary": {
+                    "fields": {
+                        "savingInfo": {
+                            "type": "com.linkedin.voyager.entities.shared.JobSavingInfo"
+                        },
+                        "new": {
+                            "type": "boolean"
+                        },
+                        "dashEntityUrn": {
+                            "type": "string"
+                        },
+                        "companyDetails": {
+                            "type": {
+                                "union": [
+                                    "com.linkedin.voyager.jobs.JobPostingCompanyName",
+                                    "com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"
+                                ]
+                            }
+                        },
+                        "formattedLocation": {
+                            "type": "string"
+                        },
+                        "jobState": {
+                            "type": "string"
+                        },
+                        "formattedSalaryDescription": {
+                            "type": "string"
+                        },
+                        "workplaceTypes": {
+                            "type": {
+                                "array": "string"
+                            }
+                        },
+                        "expireAt": {
+                            "type": "long"
+                        },
+                        "listedAt": {
+                            "type": "long"
+                        },
+                        "title": {
+                            "type": "string"
+                        },
+                        "standardizedAddresses": {
+                            "type": "com.linkedin.voyager.jobs.JobPostingAddresses"
+                        },
+                        "duration": {
+                            "type": "com.linkedin.voyager.common.TextViewModel"
+                        },
+                        "jobPostingId": {
+                            "type": "long"
+                        },
+                        "workRemoteAllowed": {
+                            "type": "boolean"
+                        },
+                        "entityUrn": {
+                            "type": "string"
+                        },
+                        "briefBenefitsDescription": {
+                            "type": "string"
+                        },
+                        "applyMethod": {
+                            "type": {
+                                "union": [
+                                    "com.linkedin.voyager.jobs.UnknownApply",
+                                    "com.linkedin.voyager.jobs.ComplexOnsiteApply",
+                                    "com.linkedin.voyager.jobs.SimpleOnsiteApply",
+                                    "com.linkedin.voyager.jobs.OffsiteApply"
+                                ]
+                            }
+                        },
+                        "sourceDomain": {
+                            "type": "string"
+                        },
+                        "workplaceTypesResolutionResults": {
+                            "type": {
+                                "map": "com.linkedin.voyager.deco.jobs.shared.WebJserpWorkplaceType"
+                            },
+                            "resolvedFrom": "workplaceTypes"
+                        }
+                    },
+                    "baseType": "com.linkedin.voyager.jobs.JobPosting"
+                },
+                "com.linkedin.voyager.deco.jserp.WebJobSearchHitWithSalary": {
+                    "fields": {
+                        "targetPageInstance": {
+                            "type": "string"
+                        },
+                        "trackingId": {
+                            "type": "string"
+                        },
+                        "hitInfo": {
+                            "type": {
+                                "union": [
+                                    "com.linkedin.voyager.jobs.feedback.PageFeedbackWidget",
+                                    "com.linkedin.voyager.search.SearchGroup",
+                                    "com.linkedin.voyager.search.SecondaryResultContainer",
+                                    "com.linkedin.voyager.search.SearchCompany",
+                                    "com.linkedin.voyager.search.SearchProfile",
+                                    "com.linkedin.voyager.feed.Update",
+                                    "com.linkedin.voyager.entities.job.Jymbii",
+                                    "com.linkedin.voyager.deco.jserp.WebSearchJobJserpWithSalary",
+                                    "com.linkedin.voyager.search.FacetSuggestion",
+                                    "com.linkedin.voyager.search.SearchJob",
+                                    "com.linkedin.voyager.search.SearchSchool",
+                                    "com.linkedin.voyager.search.SearchArticle",
+                                    "com.linkedin.voyager.search.Paywall",
+                                    "com.linkedin.voyager.search.BlurredHit",
+                                    "com.linkedin.voyager.feed.render.UpdateV2",
+                                    "com.linkedin.voyager.search.QuerySuggestionsComponent"
+                                ]
+                            }
+                        }
+                    },
+                    "baseType": "com.linkedin.voyager.search.SearchHit"
+                },
+                "com.linkedin.voyager.deco.jobs.web.shared.WebJobPostingRelevanceReasonDetail": {
+                    "fields": {
+                        "maximumCommuteTravelTimeMinutes": {
+                            "type": "int"
+                        },
+                        "superTitleResolutionResult": {
+                            "type": "com.linkedin.voyager.deco.jobs.web.shared.WebFullSuperTitle",
+                            "resolvedFrom": "superTitle"
+                        },
+                        "salaryHighEnd": {
+                            "type": "double"
+                        },
+                        "responseRate": {
+                            "type": "double"
+                        },
+                        "growthRate": {
+                            "type": "double"
+                        },
+                        "salaryHighEndDisplay": {
+                            "type": "string"
+                        },
+                        "salaryHigherThanMemberPercentage": {
+                            "type": "double"
+                        },
+                        "totalNumberOfPeople": {
+                            "type": "int"
+                        },
+                        "monthsOfExperience": {
+                            "type": "int"
+                        },
+                        "skills": {
+                            "type": {
+                                "array": "string"
+                            }
+                        },
+                        "applicantCount": {
+                            "type": "int"
+                        },
+                        "profileUrnsResolutionResults": {
+                            "type": {
+                                "map": "com.linkedin.voyager.deco.identity.normalizedprofile.shared.WebListedProfile"
+                            },
+                            "resolvedFrom": "profileUrns"
+                        },
+                        "activelyHiringCompany": {
+                            "type": "boolean"
+                        },
+                        "compensationSource": {
+                            "type": "string"
+                        },
+                        "highGrowthCompanyResolutionResult": {
+                            "type": "com.linkedin.voyager.deco.organization.shared.WebCompactCompany",
+                            "resolvedFrom": "highGrowthCompany"
+                        },
+                        "skillsResolutionResults": {
+                            "type": {
+                                "map": "com.linkedin.voyager.deco.common.WebFullSkill"
+                            },
+                            "resolvedFrom": "skills"
+                        },
+                        "mostRecentSchoolResolutionResult": {
+                            "type": "com.linkedin.voyager.deco.organization.shared.WebCompactSchool",
+                            "resolvedFrom": "mostRecentSchool"
+                        },
+                        "salaryHigherThanSimilarTitlePercentage": {
+                            "type": "double"
+                        },
+                        "highGrowthCompany": {
+                            "type": "string"
+                        },
+                        "currentCompany": {
+                            "type": "string"
+                        },
+                        "superTitle": {
+                            "type": "string"
+                        },
+                        "currentCompanyResolutionResult": {
+                            "type": "com.linkedin.voyager.deco.organization.shared.WebCompactCompany",
+                            "resolvedFrom": "currentCompany"
+                        },
+                        "salaryLowEnd": {
+                            "type": "double"
+                        },
+                        "salaryMedian": {
+                            "type": "double"
+                        },
+                        "mostRecentSchool": {
+                            "type": "string"
+                        },
+                        "percentile": {
+                            "type": "double"
+                        },
+                        "salaryHigherThanIndustryPercentage": {
+                            "type": "double"
+                        },
+                        "relevanceReasonFlavor": {
+                            "type": "string"
+                        },
+                        "salaryLowEndDisplay": {
+                            "type": "string"
+                        },
+                        "salaryCurrencyCode": {
+                            "type": "string"
+                        },
+                        "profileUrns": {
+                            "type": {
+                                "array": "string"
+                            }
+                        },
+                        "salaryHigherThanMemberAmount": {
+                            "type": "double"
+                        },
+                        "travelMode": {
+                            "type": "string"
+                        }
+                    },
+                    "baseType": "com.linkedin.voyager.jobs.relevancereasons.JobPostingRelevanceReasonDetail"
+                },
+                "com.linkedin.voyager.deco.jobs.web.shared.relevancereasons.WebListedCompanyRecruitDetails": {
+                    "fields": {
+                        "mostRecentlyTransitionedCoworkersResolutionResults": {
+                            "type": {
+                                "map": "com.linkedin.voyager.deco.identity.normalizedprofile.shared.WebListedProfile"
+                            },
+                            "resolvedFrom": "mostRecentlyTransitionedCoworkers"
+                        },
+                        "totalNumberOfPastCoworkers": {
+                            "type": "int"
+                        },
+                        "currentCompanyResolutionResult": {
+                            "type": "com.linkedin.voyager.deco.organization.shared.WebCompactCompany",
+                            "resolvedFrom": "currentCompany"
+                        },
+                        "mostRecentlyTransitionedCoworkers": {
+                            "type": {
+                                "array": "string"
+                            }
+                        },
+                        "currentCompany": {
+                            "type": "string"
+                        }
+                    },
+                    "baseType": "com.linkedin.voyager.jobs.shared.CompanyRecruitRelevanceReasonDetails"
+                }
+            }
+        }
+    }
+}

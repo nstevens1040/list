@@ -252,15 +252,12 @@
            ele.style.color = "black";
            ele.innerHTML = "Listing Age";
         }
-        function get_linkedinresults(json_elements){
+        function get_linkedinresults(page){
            var elements = [];
-           for(var i = 0; i < json_elements.list.length; i++){
-              var page = json_elements.list[i];
-              for(var a = 0; a < page.elements.length; a++){
-                 var listing_ = page.elements[a];
-                 elements.push(listing_);
-                 iter++
-              }
+           for(var a = 0; a < page.elements.length; a++){
+               var listing_ = page.elements[a];
+               elements.push(listing_);
+               iter++
            }
            return elements;
         }
